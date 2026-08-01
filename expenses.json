@@ -1,0 +1,16 @@
+[
+  {
+    "title": "string",
+    "amount": 1.0,
+    "category": "string",
+    "date": "2026-07-31",
+    "id": 1
+  },
+  {
+    "title": "string",
+    "amount": 1.0,
+    "category": "string",
+    "date": "2026-07-31",
+    "id": 2
+  }
+]
